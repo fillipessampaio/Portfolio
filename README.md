@@ -1,6 +1,6 @@
 # Portfolio
 <p align="center">
-  <img src="banner.png" width=70% >
+  <img src="banner.png" width=100% >
 </p>
 
 ## Fillipe Sampaio
